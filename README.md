@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/JayanthGuru/devChallenges-practice/blob/main/404-not-found-master/screenshot.jpg)
+![screenshot](https://github.com/jaggu509/404-not-found/blob/main/screenshot.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
